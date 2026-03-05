@@ -1,8 +1,4 @@
-ccxt==4.3.98
-python-telegram-bot
-pandas
-numpy
-asyncio
-aiohttp
-python-dotenv
-ta
+python-telegram-bot==21.5
+requests==2.32.3
+pandas==2.2.2
+numpy==1.26.4
